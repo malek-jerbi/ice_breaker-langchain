@@ -9,6 +9,7 @@ black = "*"
 python-dotenv = "*"
 google-search-results = "*"
 openai = "*"
+tweepy = "*"
 
 [dev-packages]
 
